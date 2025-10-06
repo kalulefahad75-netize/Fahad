@@ -1,18 +1,18 @@
 body{
     background-color: orange;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
     margin: 10%;
+    
 }
+
 .sectionstyle{
-    float: right;
-    margin-left: 2px;
-}
-.img{
     float: left;
-    width: 100px;
-    height: 150px;
-    margin-right: 4px;
+    margin-left:5px;
+    width: 150px;
 }
-.foot{
-    float: inline-ends;
+
+.img{
+    width: 150px;
+    height: auto;
 }
